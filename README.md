@@ -9,15 +9,13 @@ Here you can find my data science and machine learning projects made with passio
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Projeto 1** link.com 
+* **Game Recommendation Engine:* link.com 
+* **COVID-19 Dashboard and forecast for 2022:* link.com 
 
 ---
 
 ### Sobre mim:
 
-abcabc
-
-* teste
-
+Production engineering student passionate about business problems and data-driven solutions.  I believe that the best teacher is practice and that the best way to achieve real impact is through collaboration.
 
 
