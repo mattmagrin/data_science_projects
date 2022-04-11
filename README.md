@@ -10,10 +10,7 @@ Here you can find my data science and machine learning projects made with passio
 Lista de projetos em Jupyter Notebook:
 
 * **Game Recommendation Engine:* link.com 
-* **Análise dos Dados do Airbnb para o Rio de Janeiro:* link.com 
-* **Prediction bot* link.com 
-* **ETL?* link.com 
-* **COVID-19 Dashboard and forecast for 2022:* link.com 
+* **COVID-19 Dashboard and forecast on Tableau for 2022:* link.com 
 
 ---
 
